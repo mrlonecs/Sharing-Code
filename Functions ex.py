@@ -91,4 +91,11 @@ def is_palindrome(str):
   """This function checks if a string is a palindrome."""
 
 
+#7.
+users = ["Jo","Amine","Denny","Ethan"]
+passwords = ["RedCup","BlueChair","YellowSock","PurpleBag"]
+
+def is_user():
+    #check the users details to authenticate them
+
 
